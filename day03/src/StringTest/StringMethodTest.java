@@ -91,6 +91,7 @@ boolean contains(CharSequence s)：当且仅当此字符串包含指定的 char 
         System.out.println(s1.toUpperCase());//HELLOWORLD
         String s3 = "           h ell o     w or ld         ";
         System.out.println(s3.trim());//h ell o     w or ld     忽略首尾空格
+
     }
 
 }
