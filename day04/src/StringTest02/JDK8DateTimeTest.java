@@ -2,10 +2,7 @@ package day04.src.StringTest02;
 
 import org.junit.Test;
 
-import java.time.Instant;
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.LocalTime;
+import java.time.*;
 import java.util.Date;
 
 /**
@@ -73,7 +70,20 @@ public class JDK8DateTimeTest {
      */
     @Test
     public void test2(){
+        //now():获取本初子午线对应的标准时间
         Instant instant = Instant.now();
-        System.out.println(instant);
+        System.out.println(instant);//2021-06-28T07:05:17.815Z
+
+        //添加时间的偏移量
+        OffsetDateTime offsetDateTime = instant.atOffset(ZoneOffset.ofHours(8));
+        System.out.println(offsetDateTime);//2021-06-28T15:08:41.426+08:00
+
+        //toEpochMilli获取1970年1月1日0时0分0秒(UTC)开始的毫秒数
+        long l = instant.toEpochMilli();
+        System.out.println(l);//1624864214533
+
+        //通过给定的毫秒数，获取Istant实例
+        Instant instant1 = Instant.ofEpochMilli(1624864214533L);
+        System.out.println(instant1);
     }
 }
