@@ -120,4 +120,5 @@ enum Season1 implements Info{
 //    public void show() {
 //        System.out.println("这是一个季节");
 //    }
+
 }
