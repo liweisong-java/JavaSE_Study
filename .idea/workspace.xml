@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf73f7d3-0f20-46ff-ae02-2a980d715a2d" name="Default Changelist" comment="第四次提交">
+      <change afterPath="$PROJECT_DIR$/.idea/work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day0/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day0/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day0/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day0/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day0/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/Array/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/Array/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/Array/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/Array/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/Array/Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP/src/com/account/java/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP/src/com/account/java/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP/src/com/account/java/CustomerTset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP/src/com/pakimp/java/packageimport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP/src/方法的重写/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP/src/方法的重写/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP/src/方法的重写/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP/src/面向对象/OOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP/src/面向对象/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP/src/面向对象/可变个数形参.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP/src/面向对象/方法重载.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP/src/面向对象/类中属性的使用.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP/src/面向对象/类中方法的声明和使用.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP中/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP中/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP中/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP中/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP中/OOP中.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/OOP中/src/StaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/Project01/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/Project01/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/Project01/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/Project01/Project01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/Project01/src/com/project/liwei/bean/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/Project01/src/com/project/liwei/service/CustomerList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/Project01/src/com/project/liwei/ui/CustomerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/Project01/src/帮助/帮助.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/play/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/play/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/play/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/play/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/play/play.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/play/src/game/com/area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/play/src/game/com/areaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/project/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/project/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/project/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/project/project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/project/src/Test2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/project/src/Test2/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/project/src/Test4/InstanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/project/src/Test7/CommonEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/project/src/Test7/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/project/src/Test7/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/project/src/Test7/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/project/src/com/Test2/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/project/src/com/Test2/bankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/project/src/com/project/liwei/bean/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/project/src/com/project/liwei/service/CustomerList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/project/src/com/project/liwei/ui/CustomerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/project/src/com/project/liwei/util/CMUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/src/super构造器/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/src/super构造器/super构造器1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/src/多态/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/src/多态/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/src/多态/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/src/多态/Woman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/src/多态性/AnimalTset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/src/多态性/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/src/多态性/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/src/多态性/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/src/多态性/woman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/src/抽象/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/src/构造器继承/this_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/src/构造器继承/构造器.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/src/构造器继承/继承.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/src/继承性练习/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/src/继承性练习/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/src/继承性练习/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/多态/多态.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/异常/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/异常/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/异常/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/异常/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/异常/src/Test/EcDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/异常/src/Test/EcmDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/异常/src/异常/ExceptionTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/异常/src/异常/ExcptionTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/异常/src/异常/FinallyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/异常/src/异常/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/异常/异常.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/接口/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/接口/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/接口/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/接口/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/接口/src/Test/USBTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/接口/src/Test2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/接口/src/内部类/InnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/接口/src/接口/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/接口/接口.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/继承多态/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/继承多态/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/继承多态/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00/继承多态/继承多态.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/day05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/src/newSeason/Season1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/src/oldSeasonTest/Season.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/day0/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fileTemplates/includes/File Header.java" beforeDir="false" afterPath="$PROJECT_DIR$/day0/.idea/fileTemplates/includes/File Header.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day0/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day0/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day0/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/day0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day0/day0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse01/Array01.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/Array/src/com/atguigu/java/Array01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse01/Array03.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/Array/src/com/atguigu/java/Array03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse01/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/Array/src/com/atguigu/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse01/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/Array/src/com/atguigu/java/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse01/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/Array/src/com/atguigu/java/Test03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse01/Test04.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/Array/src/com/atguigu/java/Test04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse01/二维数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/Array/src/com/atguigu/java/二维数组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse01/冒泡排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/Array/src/com/atguigu/java/冒泡排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse01/反转线性二分法查找.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/Array/src/com/atguigu/java/反转线性二分法查找.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse01/工具类操作数组的方法.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/Array/src/com/atguigu/java/工具类操作数组的方法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse01/数组相关概念.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/Array/src/com/atguigu/java/数组相关概念.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse01/杨辉三角.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/Array/src/com/atguigu/java/杨辉三角.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse02/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse02/PassObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse03/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse03/PassObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/Array/src/参数传递/PassObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse04/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/Array/src/参数传递/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse04/PassObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse06/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/project/src/Test5/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse06/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/project/src/Test8/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse06/FieldMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/project/src/Test3/FieldMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse06/GeometricObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/project/src/Test5/GeometricObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse06/GeometricTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/project/src/Test5/GeometricTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse06/HourlyEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/project/src/Test8/HourlyEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse06/MyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/project/src/Test8/MyDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse06/MyRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/project/src/Test5/MyRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse06/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/project/src/Test6/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse06/OrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/project/src/Test6/OrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse06/PayrollSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/project/src/Test8/PayrollSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse06/SalariedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/project/src/Test8/SalariedEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse06/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/project/src/Test1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse06/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/project/src/Test1/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/src/eclipse06/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/project/src/Test1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01/day01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day01/day01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02/day02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day02/day02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03/day03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day03/day03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03/src/StringTest/StringMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03/src/StringTest/StringMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04/day04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day04/day04.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04/src/StringTest02/JDK8DateTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04/src/StringTest02/JDK8DateTimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04/src/StringTest02/StringMethodTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringMethodTest2/StringMethodTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day0/META-INF/day0.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/work.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1uW2T3B2isMSWxl1VoEa1XzJp93" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day00" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="newSeason" />
+      <recent name="oldSeasonTest" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="StringTest02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\work\day05\src" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.project.liwei.ui" />
+      <recent name="oldSeasonTest" />
+      <recent name="day04.src.StringTest02" />
+      <recent name="StringTest" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea\work\day05\src\oldSeasonTest" />
+      <recent name="D:\idea\work\day00\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CustomerView">
+    <configuration name="CustomerView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.liwei.ui.CustomerView" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.liwei.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Season1Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newSeason.Season1Test" />
+      <module name="day05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompareTest.test4 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.src.StringTest02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day04.src.StringTest02" />
+      <option name="MAIN_CLASS_NAME" value="day04.src.StringTest02.CompareTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompareTest.test4 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.src.StringTest02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day04.src.StringTest02" />
+      <option name="MAIN_CLASS_NAME" value="day04.src.StringTest02.CompareTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompareTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.src.StringTest02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day04.src.StringTest02" />
+      <option name="MAIN_CLASS_NAME" value="day04.src.StringTest02.CompareTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CustomerView" />
+        <item itemvalue="Application.Season1Test" />
+        <item itemvalue="JUnit.CompareTest.test4" />
+        <item itemvalue="JUnit.CompareTest.test4 (2)" />
+        <item itemvalue="JUnit.CompareTest.test4 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf73f7d3-0f20-46ff-ae02-2a980d715a2d" name="Default Changelist" comment="" />
+      <created>1624767033796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624767033796</updated>
+      <workItem from="1624767056683" duration="1065000" />
+      <workItem from="1624768141093" duration="2464000" />
+      <workItem from="1624770682581" duration="120000" />
+      <workItem from="1624770820754" duration="1087000" />
+      <workItem from="1624771927725" duration="2078000" />
+      <workItem from="1624774061335" duration="10250000" />
+      <workItem from="1624876484254" duration="20501000" />
+      <workItem from="1625035335058" duration="752000" />
+    </task>
+    <task id="LOCAL-00001" summary="第四次提交">
+      <created>1624773107874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624773107874</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第五次提交">
+      <created>1624863868863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624863868863</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第六次提交">
+      <created>1624864392002</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624864392002</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第七次提交">
+      <created>1624975750643</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624975750643</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="第四次提交" />
+    <MESSAGE value="第五次提交" />
+    <MESSAGE value="第六次提交" />
+    <MESSAGE value="第七次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第七次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1624773646974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1624773646974" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1625026778037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1625026778037" />
+    <state x="544" y="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1624771011355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="544" y="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1624771011355" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624768233106">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1624768233106" />
+    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1624975747015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1624975747015" />
+    <state x="409" y="119" key="FileChooserDialogImpl" timestamp="1625033904830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="409" y="119" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1625033904830" />
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1625035264019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1625035264019" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1625035264019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1625035264019" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1625035264019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1625035264019" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1625035264019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1625035264019" />
+    <state x="408" y="116" key="NewModule_or_Project.wizard" timestamp="1625033918046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="116" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1625033918046" />
+    <state x="582" y="132" key="RollbackChangesDialog" timestamp="1624771463348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="582" y="132" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1624771463348" />
+    <state x="317" y="47" key="SettingsEditor" timestamp="1625035162235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="317" y="47" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1625035162235" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1624773136802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1624773136802" />
+    <state x="485" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1624773436034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1624773436034" />
+    <state x="178" y="22" key="new project wizard" timestamp="1625024851483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1625024851483" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1625025102837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1625025102837" />
+  </component>
+</project>

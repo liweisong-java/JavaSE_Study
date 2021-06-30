@@ -85,5 +85,22 @@ public class JDK8DateTimeTest {
         //通过给定的毫秒数，获取Istant实例
         Instant instant1 = Instant.ofEpochMilli(1624864214533L);
         System.out.println(instant1);
+
+
     }
+    /*
+    DateTimeFormatter：格式化或解析日期时间
+    类似于SimpleDateFormat
+     */
+    @Test
+    public void test3(){
+        //方式一：预定义的标准格式：如ISO
+        //贼墨迹
+        //方式二：本地化相关的格式
+        //贼墨迹
+        //方式三：自定义的格式
+        //贼墨迹
+    }
+
+
 }
