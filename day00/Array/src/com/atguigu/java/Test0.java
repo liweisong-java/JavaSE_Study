@@ -10,7 +10,7 @@ import java.util.Scanner;
  * 			其余            等级为“D”
  * 		提示：先读入学生人数，根据人数创建int数值，存放学生成绩。
  */
-public class Test {
+public class Test0 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		

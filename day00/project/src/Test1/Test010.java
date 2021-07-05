@@ -1,6 +1,6 @@
 package Test1;
 
-public class Test {
+public class Test010 {
 	public static void main(String[] args) {
 		Student s1 = new Student();
 		Teacher t1 = new Teacher();

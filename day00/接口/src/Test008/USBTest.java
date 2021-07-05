@@ -1,4 +1,4 @@
-package Test;
+package Test008;
 /*
  * 接口的使用
  * 		接口使用上也满足多态性

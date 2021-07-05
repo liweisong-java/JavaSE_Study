@@ -21,9 +21,9 @@ package 面向对象;
  * 3.3修改上一个程序，在method方法中提供m和n两个参数，方法中打印一个m*n的*型矩形，并计算该矩形的面积并打印。
  */
 
-public class Test{
+public class Test0101 {
 	public static void main(String[] args) {
-		Test a1 = new Test();
+		Test0101 a1 = new Test0101();
 		int area = a1.method();
 		System.out.println("鹅值为" + area);
 	}

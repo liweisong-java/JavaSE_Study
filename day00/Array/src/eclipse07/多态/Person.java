@@ -1,7 +1,7 @@
 package eclipse07.多态;
 
 public class Person {
-	String name;
+	public String name;
 	int age;
 	int id = 1001;
 	

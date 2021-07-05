@@ -31,8 +31,8 @@ public class StringTest {
         System.out.println(s3 == s4);//false
 
         System.out.println("**************************************");
-        Person p1 = new Person("Tom",12);
-        Person p2 = new Person("Tom",12);
+        eclipse07.多态.Person p1 = new eclipse07.多态.Person("Tom",12);
+        eclipse07.多态.Person p2 = new eclipse07.多态.Person("Tom",12);
 
         System.out.println(p1.name.equals(p2.name));//true
         System.out.println(p1.name == p2.name);//true
@@ -54,7 +54,7 @@ public class StringTest {
             6.字符串常量池种是不会储存相同相同内容的字符串的
      */
     @Test
-    public void test(){
+    public void test1(){
         String s1 = "abc";//字面量的定义方式
         String s2 = "abc";
 //        s1 = "hello";

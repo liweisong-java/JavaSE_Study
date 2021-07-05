@@ -1,6 +1,6 @@
 package 继承性练习;
 
-public class Test {
+public class Test001 {
 	public static void main(String[] args) {
 		Cylinder cy = new Cylinder();
 		
