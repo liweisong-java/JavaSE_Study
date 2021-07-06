@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf73f7d3-0f20-46ff-ae02-2a980d715a2d" name="Default Changelist" comment="第四次提交">
+      <change afterPath="$PROJECT_DIR$/.idea/work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day0/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day0/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day0/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day0/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/StringTest02/CompareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/day0/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day0/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fileTemplates/includes/File Header.java" beforeDir="false" afterPath="$PROJECT_DIR$/day0/.idea/fileTemplates/includes/File Header.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day0/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day0/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day0/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0/day0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day0/day0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01/day01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day01/day01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02/day02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day02/day02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03/day03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day03/day03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03/src/StringTest/StringMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03/src/StringTest/StringMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04/day04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day04/day04.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04/src/StringTest02/JDK8DateTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04/src/StringTest02/JDK8DateTimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04/src/StringTest02/StringMethodTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringMethodTest2/StringMethodTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day0/META-INF/day0.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/work.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uW2T3B2isMSWxl1VoEa1XzJp93" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea\work\day00\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="StringTest02" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="StringTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CompareTest.test1">
+    <configuration name="CompareTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.src.StringTest02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day04.src.StringTest02" />
+      <option name="MAIN_CLASS_NAME" value="day04.src.StringTest02.CompareTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDK8DateTimeTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.src.StringTest02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day04.src.StringTest02" />
+      <option name="MAIN_CLASS_NAME" value="day04.src.StringTest02.JDK8DateTimeTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDK8DateTimeTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.src.StringTest02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day04.src.StringTest02" />
+      <option name="MAIN_CLASS_NAME" value="day04.src.StringTest02.JDK8DateTimeTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDK8DateTimeTest.testDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.src.StringTest02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day04.src.StringTest02" />
+      <option name="MAIN_CLASS_NAME" value="day04.src.StringTest02.JDK8DateTimeTest" />
+      <option name="METHOD_NAME" value="testDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringMethodTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringTest02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day04.src.StringTest02" />
+      <option name="MAIN_CLASS_NAME" value="StringTest02.StringMethodTest2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CompareTest.test1" />
+        <item itemvalue="JUnit.JDK8DateTimeTest.test2" />
+        <item itemvalue="JUnit.JDK8DateTimeTest.test1" />
+        <item itemvalue="JUnit.JDK8DateTimeTest.testDate" />
+        <item itemvalue="JUnit.StringMethodTest2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf73f7d3-0f20-46ff-ae02-2a980d715a2d" name="Default Changelist" comment="" />
+      <created>1624767033796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624767033796</updated>
+      <workItem from="1624767056683" duration="1065000" />
+      <workItem from="1624768141093" duration="2464000" />
+      <workItem from="1624770682581" duration="120000" />
+      <workItem from="1624770820754" duration="1087000" />
+      <workItem from="1624771927725" duration="2078000" />
+      <workItem from="1624774061335" duration="10250000" />
+      <workItem from="1624876484254" duration="2867000" />
+    </task>
+    <task id="LOCAL-00001" summary="第四次提交">
+      <created>1624773107874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624773107874</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第五次提交">
+      <created>1624863868863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624863868863</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第六次提交">
+      <created>1624864392002</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624864392002</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="第四次提交" />
+    <MESSAGE value="第五次提交" />
+    <MESSAGE value="第六次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第六次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1624773646974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1624773646974" />
+    <state x="544" y="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1624771011355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="544" y="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1624771011355" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624768233106">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1624768233106" />
+    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1624864390765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1624864390765" />
+    <state x="409" y="119" key="FileChooserDialogImpl" timestamp="1624774013374">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="409" y="119" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1624774013374" />
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1624867978026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624867978026" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1624867978026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624867978026" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1624867978026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624867978026" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1624867978026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624867978026" />
+    <state x="582" y="132" key="RollbackChangesDialog" timestamp="1624771463348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="582" y="132" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1624771463348" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1624774111732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1624774111732" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1624773136802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1624773136802" />
+    <state x="485" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1624773436034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1624773436034" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1624861178553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1624861178553" />
+  </component>
+</project>

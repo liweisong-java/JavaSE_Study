@@ -1,4 +1,4 @@
-package eclipse07.继承性练习;
+package day0.src.eclipse07.继承性练习;
 
 public class Cylinder extends Circle{
 
