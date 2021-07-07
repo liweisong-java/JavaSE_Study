@@ -1,4 +1,4 @@
-package safetyThread;
+package day02.src.safetyThread;
 
 /**
  * 使用同步方法来解决Runnable接口的线程安全问题

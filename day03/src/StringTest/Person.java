@@ -1,4 +1,4 @@
-package StringTest;
+package day03.src.StringTest;
 
 /**
  * @author liweisong

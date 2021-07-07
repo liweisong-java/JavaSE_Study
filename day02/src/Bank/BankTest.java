@@ -1,4 +1,4 @@
-package Bank;
+package day02.src.Bank;
 
 /**
  * 使用同步机制将单例模式中的懒汉式改写为线程安全

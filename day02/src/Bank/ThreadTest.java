@@ -1,4 +1,4 @@
-package Bank;
+package day02.src.Bank;
 
 /**
  * 演示线程死锁问题

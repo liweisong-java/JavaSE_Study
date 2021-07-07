@@ -1,4 +1,4 @@
-package CommunicationTest;
+package day02.src.CommunicationTest;
 
 /**
  *

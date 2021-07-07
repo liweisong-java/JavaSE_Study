@@ -1,4 +1,4 @@
-package StringTest02;
+package day04.src.StringTest02;
 
 import org.junit.Test;
 

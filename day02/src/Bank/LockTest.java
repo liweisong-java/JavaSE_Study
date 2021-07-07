@@ -1,4 +1,4 @@
-package Bank;
+package day02.src.Bank;
 
 import java.util.concurrent.locks.ReentrantLock;
 

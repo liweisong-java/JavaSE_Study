@@ -16,5 +16,5 @@ package 构造器继承;
  * 
  * 
  */
-public class this_ {
+public class this1{
 }

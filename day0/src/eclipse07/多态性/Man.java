@@ -1,7 +1,8 @@
-package eclipse07.多态性;
+package day0.src.eclipse07.多态性;
 
-public class Man extends Person{
-	boolean isSmoking;
+public class Man extends eclipse07.多态性.Person {
+	public int age;
+    boolean isSmoking;
 	
 	public void earnMoney() {
 		System.out.println("男人负责挣钱养家");

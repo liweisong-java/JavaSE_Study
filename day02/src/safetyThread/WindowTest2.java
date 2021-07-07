@@ -1,4 +1,4 @@
-package safetyThread;
+package day02.src.safetyThread;
 
 /**
  *

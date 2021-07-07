@@ -1,3 +1,5 @@
+package day03.src;
+
 import org.junit.Test;
 
 import java.util.Date;

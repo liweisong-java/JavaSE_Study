@@ -74,7 +74,7 @@ public class JDK8DateTimeTest {
         Instant instant = Instant.now();
         System.out.println(instant);//2021-06-28T07:05:17.815Z
 
-        //添加时间的偏移量
+        /* 添加时间的偏移量 */
         OffsetDateTime offsetDateTime = instant.atOffset(ZoneOffset.ofHours(8));
         System.out.println(offsetDateTime);//2021-06-28T15:08:41.426+08:00
 
