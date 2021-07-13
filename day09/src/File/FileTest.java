@@ -1,6 +1,9 @@
+package File;
+
 import org.junit.Test;
 
 import java.io.File;
+import java.io.IOException;
 import java.util.Date;
 
 /**
@@ -8,7 +11,9 @@ import java.util.Date;
  *
  * 1.File类的一个对象，代表一个文件或一个文件目录（俗称文件夹）
  * 2.File类声明在java.io包下
- *
+ * 3.File类涉及到关于文件或文件目录的创建，删除，重命名，修改时间，文件大小等方法
+ *          并未涉及到写入或读取文件内容的操作，如果需要读取或写入文件内容，必须使用IO流来完成，
+ * 4.后续File类的对象常会作为参数传递到流的构造器中，指明读取或写入的“终点”
  *
  * @author liweisong
  * @2021072021/7/1017:48
@@ -66,7 +71,7 @@ public class FileTest {
  File类的创建功能
      public boolean createNewFile() ：创建文件。若文件存在，则不创建，返回false
      public boolean mkdir() ：创建文件目录。如果此文件目录存在，就不创建了。如果此文件目录的上层目录不存在，也不创建。
- public boolean mkdirs() ：创建文件目录。如果上层文件目录不存在，一并创建
+     public boolean mkdirs() ：创建文件目录。如果上层文件目录不存在，一并创建
             注意事项：如果你创建文件或者文件目录没有写盘符路径，那么，默认在项目路径下。
  File类的删除功能
      public boolean delete()：删除文件或者文件夹
@@ -151,9 +156,50 @@ public class FileTest {
         System.out.println(file1.isHidden());
     }
     @Test
-    public void test6(){
+    /*
+ File类的创建功能
+     public boolean createNewFile() ：创建文件。若文件存在，则不创建，返回false
+     public boolean mkdir() ：创建文件目录。如果此文件目录存在，就不创建了。如果此文件目录的上层目录不存在，也不创建。
+     */
+    public void test6() throws IOException {
+        File file = new File("hi.txt");
+        if(!file.exists()){
+            //文件的创建
+            file.createNewFile();
+            System.out.println("创建成功");
+        }else{//文件存在
+            file.delete();
+            System.out.println("删除成功");
+        }
+
 
     }
-
+ /*
+ File类的创建功能
+     public boolean createNewFile() ：创建文件。若文件存在，则不创建，返回false
+     public boolean mkdir() ：创建文件目录。如果此文件目录存在，就不创建了。如果此文件目录的上层目录不存在，也不创建。
+     public boolean mkdirs() ：创建文件目录。如果上层文件目录不存在，一并创建
+            注意事项：如果你创建文件或者文件目录没有写盘符路径，那么，默认在项目路径下。
+ */
+    //文件目录的创建
+    @Test
+    public void test7(){
+        //文件目录的创建
+        File file = new File("D:\\idea\\IO\\IO2");
+        boolean mkdir = file.mkdir();
+//        file.mkdirs();
+        if (mkdir){
+            System.out.println("创建成功1");
+        }
+        File file1 =new File("D:\\idea\\IO\\IO4\\IO3");
+        boolean mkdir1 = file1.mkdirs();
+        if (mkdir1){
+            System.out.println("创建成功2");
+        }
+        for (int i = 0; i < 100; i++) {
+            File file2 =new File("D:\\idea\\IO\\我\\创\\建\\了\\1\\0\\0\\层\\文\\件\\夹\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!\\玩儿!");
+            boolean mkdirs3 = file2.mkdirs();
+        }
+    }
 
 }
