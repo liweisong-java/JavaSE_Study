@@ -65,8 +65,6 @@ public class BufferedTest {
                     e.printStackTrace();
                 }
             }
-
-
             //说明：关闭外层流的同时，内层流也会自动的进行关闭，我们可以省略
 //        fis.close();
 //        fos.close();
@@ -104,16 +102,10 @@ public class BufferedTest {
             if (wr != null){
                 try {
                     wr.close();
-                } catch (IOException e) {
+                } catch (IOException e){
                     e.printStackTrace();
                 }
             }
-
-
         }
-
-
-
     }
-
 }

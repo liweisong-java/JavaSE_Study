@@ -14,11 +14,11 @@ import java.io.IOException;
  *   3.流的角色   节点流  处理流
  *
  *   二.流的体系结构
- *   抽象基类               节点流(文件流)                缓冲流（处理流的一种）
- *   InputStream            FileInputStream             BufferedInputStream
- *   OutputStream           FileOutputStream            BufferedOutputStream
- *   Reader                 FileReader                  BufferedReader
- *   Whiter                 FileWriter                  BufferedWriter
+ *   抽象基类               节点流(文件流)                                     缓冲流（处理流的一种）
+ *   InputStream            FileInputStream(read(byte[] buffer))             BufferedInputStream(read(byte[] buffer))
+ *   OutputStream           FileOutputStream(write(byte[] buffer,0,len))     BufferedOutputStream(write(byte[] buffer,0,len))
+ *   Reader                 FileReader(read(byte[] cbuf))                    BufferedReader(read(byte[] cbuf / readLine()))
+ *   Whiter                 FileWriter(write(byte[] cbuf,0,len))             BufferedWriter(write(byte[] cbuf,0,len))
  *
  * @author liweisong
  * @2021072021/7/1115:27
