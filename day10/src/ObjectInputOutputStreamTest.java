@@ -15,7 +15,7 @@ public class ObjectInputOutputStreamTest {
     序列化过程：将内存中的java对象保存到磁盘中或通过网络传输出去
      */
     @Test
-    public void testObjectOutputStream(){
+    public void testObjectOutputStream() {
         ObjectOutputStream oos = null;
         try {
             //1.
@@ -28,19 +28,22 @@ public class ObjectInputOutputStreamTest {
             e.printStackTrace();
         } finally {
             //4.
-            if (oos != null){
+            if (oos != null) {
                 try {
                     oos.close();
                 } catch (IOException e) {
                     e.printStackTrace();
-                }}}}
+                }
+            }
+        }
+    }
 
     /*
     反序列化：将磁盘文件中的对象还原为内存中的一个Java对象
     使用ObjectInputStream来实现
      */
     @Test
-    public void testObjectInputStream(){
+    public void testObjectInputStream() {
         ObjectInputStream ois = null;
         try {
             ois = new ObjectInputStream(new FileInputStream("Object.dat"));
@@ -51,7 +54,7 @@ public class ObjectInputOutputStreamTest {
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         } finally {
-            if (ois != null){
+            if (ois != null) {
                 try {
                     ois.close();
                 } catch (IOException e) {
@@ -61,3 +64,4 @@ public class ObjectInputOutputStreamTest {
         }
     }
 }
+
