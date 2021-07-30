@@ -69,5 +69,24 @@ public class ReflectionTest {
     }
     //疑问？
     //    反射机制与面向对象的封装性是不是矛盾的？如何看待两个技术
-    //
+    //不矛盾
+    //    通过直接new的方式或反射的方式都可以调用公共的结构，开发到底用哪个？
+    //  建议：直接new的方式
+    //什么时候会使用：反射的方式，反射的特性
+    @Test
+    public void test3() throws ClassNotFoundException {
+        //获取Class的实例的操作
+        //方式一：调用运行时类的属性： .class
+        Class clazz1 = Person.class;
+        System.out.println(clazz1);
+        //方式二：通过运行时类的对象，调用getClass()
+        Person p1 = new Person();
+        Class clazz2 = p1.getClass();
+        System.out.println(clazz2);
+        //方式三：调用Class的静态方法：forName(String classPath)
+        Class clazz3 = Class.forName("Reflection.Person");
+        System.out.println(clazz3);
+
+
+    }
 }

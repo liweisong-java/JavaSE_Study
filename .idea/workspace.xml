@@ -1,15 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf73f7d3-0f20-46ff-ae02-2a980d715a2d" name="Default Changelist" comment="第13次提交">
+    <list default="true" id="cf73f7d3-0f20-46ff-ae02-2a980d715a2d" name="Default Changelist" comment="已学习Mysql">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/bd.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/com/weisong/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/com/weisong/TestInsert.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/day13/day13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.47.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JDBC/bd.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JDBC/com/weisong/JdbcUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JDBC/com/weisong/TestInsert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/newSeason/Info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/newSeason/Season1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/newSeason/Season1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/newSeason/Season1$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/newSeason/Season1$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/newSeason/Season1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/newSeason/Season1Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/oldSeasonTest/Season.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/oldSeasonTest/SeasonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/ADDSIZE/CollectionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/collection/CollectionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/collection/ForTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/collection/IteratorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/collection/ListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/collection/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/collection/TreeSetTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/collection/TreeSetTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/collection/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/collection/setTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/MapTest/CollectionsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/MapTest/MapTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/MapTest/PropertiesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/MapTest/TreeMapTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/MapTest/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08/GenericTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day09/File/FileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day09/File/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day09/File/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day09/IOFileReaderWriterTest/BufferedTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day09/IOFileReaderWriterTest/FileInputOutputStreamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day09/IOFileReaderWriterTest/FileReaderWriterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day09/IOFileReaderWriterTest/InputStreamReaderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day09/IOFileReaderWriterTest/OtherStreamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day10/InetAddress/InetAddressTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day10/InetAddress/TCPTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day10/InetAddress/TCPtest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day10/InetAddress/UDPTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day10/InetAddress/URLTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day10/InetAddress/URLTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day10/ObjectInputOutputStreamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day11/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day11/Reflection/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day11/Reflection/ReflectionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/src/com/weisongJDBC/lesson01/JDBCFirstDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/src/com/weisongJDBC/lesson02/utils/jdbcUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/src/com/weisongJDBC/lesson02/utils/testInsert.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/work/.idea/libraries/lib.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/work/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/work.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/src/ThreadTest/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01/src/ThreadTest/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/work/src/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bd.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/weisong/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/weisong/SQL注入.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/weisong/TestDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/weisong/TestInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/weisong/TestSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/weisong/TestUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/weisong2/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/weisong2/TestDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/weisong2/TestInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/weisong2/TestSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/weisong2/TestUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/weisong3/TestTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/weisong3/TestTransaction2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/day08/src/GenericTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/day08/src/GenericTest1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day09/src/IOFileReaderWriterTest/FileInputOutputStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day09/src/IOFileReaderWriterTest/FileInputOutputStreamTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day11/src/Reflection/ReflectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day11/src/Reflection/ReflectionTest.java" afterDir="false" />
@@ -17,8 +90,7 @@
       <change beforePath="$PROJECT_DIR$/out/production/work/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/work/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/work/.idea/work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/work/.idea/work.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/work/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/work/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/work/META-INF/work.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/weisongJDBC/lesson01/JDBCFirstDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/weisongJDBC/lesson01/JDBCFirstDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/weisongJDBC/lesson01/JDBCFirstDemo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +132,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/day00/Array/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -72,9 +145,31 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work_Study\idea\work\src\src" />
+      <recent name="D:\Work_Study\idea\work\src" />
+      <recent name="D:\Work_Study\idea\work\src\com" />
+      <recent name="D:\idea\work\day09\src" />
+      <recent name="D:\idea\work\day05\src\oldSeasonTest" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="StringTest02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work_Study\idea\work" />
+      <recent name="D:\Work_Study\idea\work\lib" />
+      <recent name="D:\idea\work\day10" />
+      <recent name="D:\idea\work\day09" />
+      <recent name="D:\idea\work\day09\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="MapTest" />
+      <recent name="newSeason" />
+      <recent name="oldSeasonTest" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
       <recent name="collection" />
@@ -82,28 +177,8 @@
       <recent name="oldSeasonTest" />
       <recent name="day04.src.StringTest02" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="StringTest02" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Work_Study\idea\work\lib" />
-      <recent name="D:\idea\work\day10" />
-      <recent name="D:\idea\work\day09" />
-      <recent name="D:\idea\work\day09\src" />
-      <recent name="D:\idea\work\day05\src" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="MapTest" />
-      <recent name="newSeason" />
-      <recent name="oldSeasonTest" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\idea\work\day09\src" />
-      <recent name="D:\idea\work\day05\src\oldSeasonTest" />
-      <recent name="D:\idea\work\day00\src" />
-    </key>
   </component>
-  <component name="RunManager" selected="JUnit.src.com.weisongJDBC.lesson01 in work">
+  <component name="RunManager" selected="Application.TestInsert">
     <configuration name="JDBCFirstDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.com.weisongJDBC.lesson01.JDBCFirstDemo" />
       <module name="work" />
@@ -117,49 +192,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day11" />
+    <configuration name="TestInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.weisong.TestInsert" />
+      <module name="JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Reflection.*" />
+          <option name="PATTERN" value="com.weisong.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Reflection" />
-      <option name="MAIN_CLASS_NAME" value="Reflection.ReflectionTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectionTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day11" />
+    <configuration name="testInsert (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.weisongJDBC.lesson02.utils.testInsert" />
+      <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Reflection.*" />
+          <option name="PATTERN" value="com.weisongJDBC.lesson02.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Reflection" />
-      <option name="MAIN_CLASS_NAME" value="Reflection.ReflectionTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectionTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day11" />
+    <configuration name="testInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.weisongJDBC.lesson02.utils.testInsert" />
+      <module name="work" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Reflection.*" />
+          <option name="PATTERN" value="src.com.weisongJDBC.lesson02.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Reflection" />
-      <option name="MAIN_CLASS_NAME" value="Reflection.ReflectionTest" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -180,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestInsert" />
+        <item itemvalue="Application.testInsert (1)" />
+        <item itemvalue="Application.testInsert" />
         <item itemvalue="JUnit.src.com.weisongJDBC.lesson01 in work" />
         <item itemvalue="Application.JDBCFirstDemo" />
-        <item itemvalue="JUnit.ReflectionTest.test3" />
-        <item itemvalue="JUnit.ReflectionTest.test2" />
-        <item itemvalue="JUnit.ReflectionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +300,10 @@
       <workItem from="1627202926054" duration="152000" />
       <workItem from="1627371548475" duration="5379000" />
       <workItem from="1627390056959" duration="1488000" />
-      <workItem from="1627391686898" duration="6034000" />
+      <workItem from="1627391686898" duration="19599000" />
+      <workItem from="1627465440187" duration="82000" />
+      <workItem from="1627647177668" duration="662000" />
+      <workItem from="1627647869623" duration="593000" />
     </task>
     <task id="LOCAL-00001" summary="第四次提交">
       <created>1624773107874</created>
@@ -336,6 +406,10 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/day01/src/ThreadTest" />
+    </ignored-roots>
     <MESSAGE value="第四次提交" />
     <MESSAGE value="第五次提交" />
     <MESSAGE value="第六次提交" />
@@ -349,7 +423,8 @@
     <MESSAGE value="IO流" />
     <MESSAGE value="最后一次提交" />
     <MESSAGE value="第一个JDBC程序" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一个JDBC程序" />
+    <MESSAGE value="已学习Mysql" />
+    <option name="LAST_COMMIT_MESSAGE" value="已学习Mysql" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="16" key="#Live_Templates" timestamp="1627372911562">
@@ -364,10 +439,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1626528338404" />
-    <state x="552" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1625826338303">
+    <state x="499" y="187" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1627648331161">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="552" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1625826338303" />
+    <state x="499" y="187" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1627648331161" />
+    <state x="499" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1627648329194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1627648329194" />
+    <state x="552" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1627456704671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="552" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1627456704671" />
     <state x="544" y="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1624771011355">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -376,34 +459,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1625983879478" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1626153909955">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1627459435091">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1626153909955" />
-    <state x="329" y="0" key="CommitChangelistDialog2" timestamp="1627391530345">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1627459435091" />
+    <state x="329" y="0" key="CommitChangelistDialog2" timestamp="1627647832221">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="329" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1627391530345" />
-    <state x="409" y="119" key="FileChooserDialogImpl" timestamp="1627202832536">
+    <state x="329" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1627647832221" />
+    <state x="409" y="119" key="FileChooserDialogImpl" timestamp="1627465518917">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="409" y="119" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1627202832536" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1627388963155">
+    <state x="409" y="119" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1627465518917" />
+    <state width="1493" height="225" key="GridCell.Tab.0.bottom" timestamp="1627465401251">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1627388963155" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1627388963154">
+    <state width="1493" height="225" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1627465401251" />
+    <state width="1493" height="225" key="GridCell.Tab.0.center" timestamp="1627465401250">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1627388963154" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1627388963153">
+    <state width="1493" height="225" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1627465401250" />
+    <state width="1493" height="225" key="GridCell.Tab.0.left" timestamp="1627465401249">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1627388963153" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1627388963154">
+    <state width="1493" height="225" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1627465401249" />
+    <state width="1493" height="225" key="GridCell.Tab.0.right" timestamp="1627465401251">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1627388963154" />
+    <state width="1493" height="225" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1627465401251" />
     <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1626277193045">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -432,10 +515,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1536.824@0.0.1536.824" timestamp="1625115649699" />
-    <state x="317" y="0" key="SettingsEditor" timestamp="1627390794963">
+    <state x="107" y="40" key="SettingsEditor" timestamp="1627648006167">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="317" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1627390794963" />
+    <state x="107" y="40" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1627648006167" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1625197949327">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -444,10 +527,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="565" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1625747114193" />
-    <state x="485" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1626427658563">
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1627647743353">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="485" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1626427658563" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1627647743353" />
+    <state x="485" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1627648359143">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1627648359143" />
     <state x="560" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1626230160639">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -456,14 +543,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1627391533368" />
+    <state x="540" y="203" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1627648395777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="203" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1627648395777" />
     <state x="313" y="141" width="909" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1626256899083">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="313" y="141" width="909" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1626256899083" />
-    <state x="178" y="22" key="new project wizard" timestamp="1626577025909">
+    <state x="178" y="22" key="new project wizard" timestamp="1627465520033">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1626577025909" />
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1627465520033" />
     <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1625984003573">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

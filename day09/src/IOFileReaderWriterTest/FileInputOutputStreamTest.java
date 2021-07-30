@@ -6,10 +6,10 @@ import java.io.*;
 
 /**
  * 测试FileInputStream和FileOutputStream
- *
- * 结论：
- *  1.对于文本文件(.txt   .java   .c  .cpp)，使用字符流处理
- *  2.对于非文本文件(.jpg  .mp3    .mp4    .avi    .doc    .ppt)，使用字节流处理
+ * * 结论：
+ *  *  1.对于文本文件(.txt   .java   .c  .cpp)，使用字符流处理
+ *  *  2.对于非文本文件(.jpg  .mp3    .mp4    .avi    .doc    .ppt)，使用字节流处理
+
  * @author liweisong
  * @2021072021/7/1313:11
  *
