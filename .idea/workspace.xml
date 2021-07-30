@@ -148,15 +148,21 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="JDBC.src.com.weisong" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="StringTest02" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Work_Study\idea\work\src\src" />
       <recent name="D:\Work_Study\idea\work\src" />
       <recent name="D:\Work_Study\idea\work\src\com" />
       <recent name="D:\idea\work\day09\src" />
       <recent name="D:\idea\work\day05\src\oldSeasonTest" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="StringTest02" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Work_Study\idea\work" />

@@ -1,4 +1,4 @@
-package com.weisong;
+package JDBC.src.com.weisong;
 
 import java.io.InputStream;
 import java.sql.*;
